@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "48EE70DB-3725-46B2-9ADE-D0C806729C41"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46B41843-21F0-4852-8800-93F303451962"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UniForexQuiz/Views/Quiz/BasicQuiz.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "46B41843-21F0-4852-8800-93F303451962 - 9534c337005cdba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in UniForexQuiz.BasicQuiz.body.getter : some"
+                  moduleName = "UniForexQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ardaktursunbayev/XCode/IOS/UniForexQuiz/UniForexQuiz/Views/Quiz/BasicQuiz.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "46B41843-21F0-4852-8800-93F303451962 - 9534c337005cdb81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in UniForexQuiz.BasicQuiz.body.getter : some"
+                  moduleName = "UniForexQuiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ardaktursunbayev/XCode/IOS/UniForexQuiz/UniForexQuiz/Views/Quiz/BasicQuiz.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
